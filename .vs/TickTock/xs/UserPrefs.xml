@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DF68FBCB-41A9-4181-8381-298B88121D46}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data_Access_Layer/StatusOverViewDAL.cs">
+    <Files>
+      <File FileName="Business_Logic_Layer/ViewModel/StatusOverviewModel.cs" />
+      <File FileName="Data_Access_Layer/Context/StatusOverviewEntityModel.cs" />
+      <File FileName="Business_Logic_Layer/StatusOverviewBLL.cs" />
+      <File FileName="API_UL_Layer/Controllers/StatusOverviewController.cs" />
+      <File FileName="API_UL_Layer/Controllers/UsersController.cs" />
+      <File FileName="API_UL_Layer/Controllers/CustomerController.cs" />
+      <File FileName="Business_Logic_Layer/CustomerBLL.cs" />
+      <File FileName="Data_Access_Layer/CustomerDAL.cs" />
+      <File FileName="Data_Access_Layer/StatusOverViewDAL.cs" Line="11" Column="47" />
+      <File FileName="Data_Access_Layer/Context/Data/MyDbContext.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TickTock" expanded="True">
+            <Node name="Business_Logic_Layer" expanded="True">
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="Data_Access_Layer" expanded="True">
+              <Node name="StatusOverViewDAL.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.API__UL__Layer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

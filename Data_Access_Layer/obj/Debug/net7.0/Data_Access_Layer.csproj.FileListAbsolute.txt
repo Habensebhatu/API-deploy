@@ -1,0 +1,14 @@
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/bin/Debug/net7.0/Data_Access_Layer.deps.json
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/bin/Debug/net7.0/Data_Access_Layer.runtimeconfig.json
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/bin/Debug/net7.0/Data_Access_Layer.dll
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/bin/Debug/net7.0/Data_Access_Layer.pdb
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/Data_Access_Layer.csproj.AssemblyReference.cache
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/Data_Access_Layer.AssemblyInfoInputs.cache
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/Data_Access_Layer.AssemblyInfo.cs
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/Data_Access_Layer.csproj.CoreCompileInputs.cache
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/Data_Access_Layer.dll
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/refint/Data_Access_Layer.dll
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/Data_Access_Layer.pdb
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/Data_Access_Layer.genruntimeconfig.cache
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Data_Access_Layer/obj/Debug/net7.0/ref/Data_Access_Layer.dll

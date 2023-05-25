@@ -1,0 +1,15 @@
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/bin/Debug/net7.0/Business_Logic_Layer.deps.json
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/bin/Debug/net7.0/Business_Logic_Layer.dll
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/bin/Debug/net7.0/Business_Logic_Layer.pdb
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/bin/Debug/net7.0/Data_Access_Layer.dll
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/bin/Debug/net7.0/Data_Access_Layer.pdb
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/Business_Logic_Layer.csproj.AssemblyReference.cache
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/Business_Logic_Layer.AssemblyInfoInputs.cache
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/Business_Logic_Layer.AssemblyInfo.cs
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/Business_Logic_Layer.csproj.CoreCompileInputs.cache
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/Business_Logic_Layer.csproj.CopyComplete
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/Business_Logic_Layer.dll
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/refint/Business_Logic_Layer.dll
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/Business_Logic_Layer.pdb
+/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/Business_Logic_Layer/obj/Debug/net7.0/ref/Business_Logic_Layer.dll

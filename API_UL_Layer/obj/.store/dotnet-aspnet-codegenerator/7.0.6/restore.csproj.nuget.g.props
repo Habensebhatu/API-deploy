@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/API_UL_Layer/obj/.store/.stage/4kdr1lmp.hen</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/API_UL_Layer/obj/.store/.stage/4kdr1lmp.hen</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.5.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/API_UL_Layer/obj/.store/.stage/4kdr1lmp.hen/" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">/Users/habensebhatu/Klokken/21sd---p11---field-lab-klokken-app-aaron-haben-mohammed/API/TickTock/API_UL_Layer/obj/.store/.stage/4kdr1lmp.hen/dotnet-aspnet-codegenerator/7.0.6</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>
